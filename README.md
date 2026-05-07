@@ -58,7 +58,7 @@ src/
 
 * Add 5-day weather forecast
 * Add dark/light mode
-* Detect current location weather
+
 
 ## Author
 
